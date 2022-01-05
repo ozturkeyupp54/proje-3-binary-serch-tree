@@ -1,1 +1,14 @@
-# proje-3-binary-serch-tree
+# proje-3-binary-serch-
+
+           6
+   0,1,2,3,4,5            7,8,9
+
+                  6
+          3                  8 
+   0,1,2     4,5          7    9
+
+                  6
+          3                 8
+     1       4            7    9
+     1         5
+   0    2
